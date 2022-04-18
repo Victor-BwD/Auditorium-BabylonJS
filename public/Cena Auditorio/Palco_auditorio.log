@@ -1,0 +1,141 @@
+Exporter version: 2.93.5, Blender version: 3.1.2
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\victo\Documents\Cena Auditorio 2.0\
+	Python World class constructor completed
+	processing begun of mesh:  Palco
+		processing begun of material:  Material.001
+			processing texture t_woodfloor
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  226
+		num normals        :  226
+		num tangents       :  0
+		num uvs            :  452
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  96
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  Escada1
+		processing begun of material:  Material.005
+			processing texture t_woodfloor
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Escada04
+		mesh is an instance of :  Escada1.  Processing halted.
+	processing begun of mesh:  Escada02
+		mesh is an instance of :  Escada1.  Processing halted.
+	processing begun of mesh:  Escada03
+		mesh is an instance of :  Escada1.  Processing halted.
+	processing begun of mesh:  Parede-Background
+		processing begun of material:  Material.004
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  Upper
+		processing begun of material:  Material.003
+			processing texture t_marble_grey
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube
+		processing begun of material:  Material.002
+		num positions      :  1740
+		num normals        :  1740
+		num tangents       :  0
+		num uvs            :  3480
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  720
+	processing begun of mesh:  Escada1.001
+		processing begun of material:  Material.006
+			processing texture t_woodfloor
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Escada04.001
+		mesh is an instance of :  Escada1.001.  Processing halted.
+	processing begun of mesh:  Escada02.001
+		mesh is an instance of :  Escada1.001.  Processing halted.
+	processing begun of mesh:  Escada03.001
+		mesh is an instance of :  Escada1.001.  Processing halted.
+	processing begun of mesh:  Plane
+		processing begun of material:  Material.007
+			processing texture t_carpet_blue
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  Entrada
+		WARNING: No materials have been assigned: 
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  Plane.001
+		WARNING: No materials have been assigned: 
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  Plane.002
+		processing begun of material:  Material.008
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of light (POINT):  Light
+========= Writing of JSON file started =========
+	writing mesh:  Palco
+	writing mesh:  Escada1
+	writing mesh:  Parede-Background
+	writing mesh:  Upper
+	writing mesh:  Cube
+	writing mesh:  Escada1.001
+	writing mesh:  Plane
+	writing mesh:  Entrada
+	writing mesh:  Plane.001
+	writing mesh:  Plane.002
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.1481 secs
